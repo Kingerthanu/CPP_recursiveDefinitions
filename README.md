@@ -15,7 +15,20 @@
 
 **The Breakdown:**
 
+  This Program Outlines 5 Recursive Problems To Be Solved In C++.
 
+  This Program Assesses knowledge of recursive data structures by
+ displaying different ways it can arise and be used. This assignment
+ calls for 5 functions, each with their own goal; one being calculations
+ of a unknown algorithm's sequencing to a n'th position. Secondly,
+ having a function which calculates the amount of tennis balls needed to
+ make a pyramid of x height. Thirdly is a conversion from base 10 integers
+ to base 2. Fourth program checks the divisibility of a integer based
+ on a recursive function which refrains from the usage of modulo until 
+ certain criterium are satisfied. Finally is the ramunjan calculation,
+ which calls for you to represent the algorithm in a recursive function.
+ These are finally used with unit test functions which check their outputs
+ at varying values.
 
 <img src="https://github.com/Kingerthanu/CPP_recursiveDefinitions/assets/76754592/82ec715b-3640-437e-b254-91618bdb8840" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_recursiveDefinitions/assets/76754592/82ec715b-3640-437e-b254-91618bdb8840" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_recursiveDefinitions/assets/76754592/82ec715b-3640-437e-b254-91618bdb8840" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_recursiveDefinitions/assets/76754592/82ec715b-3640-437e-b254-91618bdb8840" alt="Cornstarch <3" width="55" height="49">
 
